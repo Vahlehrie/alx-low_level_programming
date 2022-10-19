@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*_abs ->  return absolute value of n
+*_abs -> return absolute value of n
 *@n: parameter
 * Return: absolute value of a number
 */
@@ -11,5 +11,3 @@ if(n < 0);
 n = -n;
 return (n);
 }
-
-
