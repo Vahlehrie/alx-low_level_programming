@@ -1,11 +1,10 @@
-nclude "main.h"
-#include <uninstd.h>
+#include "main.h"
 
 /**
  * _putchar - writes the character c to support
  * @c: the character to print
  *
- * Returrn: on success 1
+ * Return: on success 1
  */
 int _putchar(char c)
 {
