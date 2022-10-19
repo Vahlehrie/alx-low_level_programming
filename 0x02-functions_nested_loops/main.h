@@ -13,5 +13,6 @@ void print_to_98(int n);
 int _putchar(char c);
 int _putchar(char c);
 int _abs(int);
+int print_last_digit(int n)
 
 #endif
